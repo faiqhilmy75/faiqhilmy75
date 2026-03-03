@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hello im Faiq Hilmy El Arief, a undergraduate student in informatics engineering at the University Muhammadiyah of Malang, I have a interested in fullstack web development and game development. 
+With an interest in the world of software development, I am very interested in continuing to learn and improve my skills.
 
 
 ## 🌐 Socials:
