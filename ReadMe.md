@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello im Faiq Hilmy El Arief, a undergraduate student in informatics engineering at University Muhammadiyah of Malang, I have a interested in fullstack web development and game development. 
-With an interest in the world of software development, I am very interested in continuing to learn and improve my skills.
+With an interest in the world of software development, I am very interest to learn and improve my skills.
 
 
 ## 🌐 Socials:
